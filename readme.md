@@ -21,4 +21,4 @@ Dica: No vídeo de introdução sobre o Docker quando falamos sobre o sistema de
 
 ### Imagem Gerada
 
-[belclei/codeducation] (docker.io/belclei/codeducation)
+[belclei/codeducation](https://hub.docker.com/repository/docker/belclei/codeeducation)
